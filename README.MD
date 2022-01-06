@@ -1,10 +1,10 @@
 <div align="center">
 
-# Sistemi Energetici per Ingegneria Fisica
+# Sistemi Energetici
 
 <br>
 
-Notes & materials from "energy systems for engineering physics" course at poliMI
+Notes & materials from "energy systems" course at poliMI
 
 <br>
 
